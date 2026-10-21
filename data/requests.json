@@ -1,0 +1,16 @@
+[
+  {
+    "id": "KG-VAL-2026-4PSG1",
+    "fullName": "Тест Пользователь",
+    "phone": "+996555123456",
+    "assetType": "Жилая недвижимость",
+    "propertyLocation": "Бишкек, Первомайский район",
+    "purpose": "Залог для кредита в банке",
+    "contactMethod": "whatsapp",
+    "comments": "Тестовый запрос на оценку квартиры",
+    "consent": true,
+    "preferredLanguage": "ru",
+    "createdAt": "2026-10-21T11:53:02.424Z",
+    "status": "new"
+  }
+]

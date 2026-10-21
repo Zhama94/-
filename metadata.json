@@ -1,0 +1,6 @@
+{
+  "name": "Независимая Оценка Имущества | [COMPANY NAME]",
+  "description": "Профессиональная независимая оценка недвижимости, бизнеса, земли, транспорта и оборудования в Бишкеке и регионах Кыргызстана.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
